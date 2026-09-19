@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "GenomeAssembly_Scripts"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Feng"
+    given-names: "Wanjie"
+repository-code: "https://github.com/Wanjie-Feng/GenomeAssembly_Scripts"
+url: "https://github.com/Wanjie-Feng/GenomeAssembly_Scripts"
+license: "BSD-3-Clause"
+abstract: >-
+  Modular shell scripts for genome assembly and annotation used in Brassica napus
+  genome analyses.
+keywords:
+  - Brassica napus
+  - genome assembly
+  - genome annotation
+  - bioinformatics

@@ -1,0 +1,7 @@
+GenomeAssembly_Scripts v1.0.0
+
+This release archives the version of the genome assembly and annotation scripts
+used in the associated Brassica napus study, for reproducibility and citation.
+
+Repository:
+https://github.com/Wanjie-Feng/GenomeAssembly_Scripts
